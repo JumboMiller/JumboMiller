@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jumbo_miller) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damir-portnov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damirchot@gmail.com) [![MySite](https://img.shields.io/badge/MySite-%23002b36.svg?logo=link&logoColor=white)](https://damir-portnov.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jumbo_miller) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damir-portnov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damirchot@gmail.com) [![MySite](https://img.shields.io/badge/MySite-%23292d3e.svg?logo=link&logoColor=white)](https://damir-portnov.com/)
 
 
 
