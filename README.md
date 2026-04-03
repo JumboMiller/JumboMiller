@@ -66,16 +66,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=JumboMiller&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
- 
+      <img src="https://streak-stats.demolab.com/?user=JumboMiller&theme=dark&hide_border=true" alt="GitHub Streak" /> 
 </div>
 
 ---
